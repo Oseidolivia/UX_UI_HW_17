@@ -1,0 +1,54 @@
+.nav li {
+    display: inline-block;
+    vertical-align: top;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    color: #4D3D3D;
+    margin-left: auto;
+    padding: 20px;
+    text-align: center;  
+}
+
+#logo {
+    float: left;
+    position: relative;
+
+}
+.nav {
+    text-align: center;
+    width: 50%;
+    margin-left: auto;
+    }
+
+.nav ul {
+    width: 50%;
+    margin-left: auto;
+    padding: 1%;
+}
+
+.heroImg{
+    height: 600px;
+    padding: 25px;
+}
+
+.content {
+    width: 500px;
+    margin: 0 auto;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.footer {
+    color: #4D3D3D;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    text-align: right;
+}
+
+.footer li {
+    display: inline-block;
+    vertical-align: top;
+    margin-left: auto;
+    padding: 20px;
+}
+
+
